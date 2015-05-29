@@ -1,1 +1,1 @@
-borrado
+texto nuevo
